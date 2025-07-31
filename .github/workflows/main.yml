@@ -1,0 +1,6 @@
+CONVEX_DEPLOY_KEY=project:hevixycode:my-project-chef-91278|eyJ2MiI6IjJjNzhkZGJlNTA5MzQ5ODQ4ODEyMWYxMDgyOGU4OTgwIn0=
+
+# Deployment used by `npx convex dev`
+CONVEX_DEPLOYMENT=dev:moonlit-viper-255
+
+VITE_CONVEX_URL=https://moonlit-viper-255.convex.cloud
